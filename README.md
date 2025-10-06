@@ -1,15 +1,25 @@
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=shahshrey.shahshrey)
-![Years Experience](https://img.shields.io/badge/Experience-9%2B%20Years-blue)
-![AI Specialization](https://img.shields.io/badge/AI%20Engineering-2%2B%20Years-green)
-![Cursor Hours](https://img.shields.io/badge/Cursor%20AI-2000%2B%20Hours-purple)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=150&section=header&text=Shrey%20Shah&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35" />
+</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🎯_Cursor_Ambassador-Anysphere-FF6B6B?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor Ambassador" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=shahshrey.shahshrey" alt="Visitors" />
+  <img src="https://img.shields.io/badge/Experience-9%2B%20Years-blue" alt="Experience" />
+  <img src="https://img.shields.io/badge/AI%20Engineering-2%2B%20Years-green" alt="AI Engineering" />
+  <img src="https://img.shields.io/badge/Cursor%20AI-2000%2B%20Hours-purple" alt="Cursor Hours" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Cursor_Ambassador-Anysphere-FF6B6B?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor Ambassador" />
   <img src="https://img.shields.io/badge/Senior_AI_Engineer-Vivun-00D084?style=for-the-badge&logo=ai&logoColor=white" alt="Senior AI Engineer at Vivun" />
 </p>
 
 <p align="center">
   <img src="https://socialify.git.ci/shahshrey/shahshrey/image?font=Source%20Code%20Pro&language=1&name=1&owner=1&pattern=Plus&theme=Dark" alt="shahshrey" width="700" height="300" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D084&center=true&vCenter=true&width=800&lines=Senior+AI+Software+Engineer+%F0%9F%A4%96;Cursor+Ambassador+%E2%9A%A1;2000%2B+Hours+with+Cursor+AI;Building+Multi-Agent+Systems;Architecting+RAG+Pipelines;AI-Assisted+Development+Expert" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -29,19 +39,21 @@
 <br>
 </p>
 <p align="center">
-  <i>📍 Based in Halifax, NS, Canada | 📧 sshreyv@gmail.com</i>
+  <i>📍 Halifax, NS, Canada | ✉ sshreyv@gmail.com</i>
 </p>
 
-<h3 align="center">🌐 Explore More</h3>
+<h3 align="center">
+  <img src="https://img.shields.io/badge/-Explore_More-000000?style=flat&logo=googlechrome&logoColor=white" />
+</h3>
 <p align="center">
   <a href="https://shreyshah.dev">
-    <img src="https://img.shields.io/badge/🤖_Chat_with_my_ai_Agent-4A90E2?style=for-the-badge" alt="Chat with my ai Agent" />
+    <img src="https://img.shields.io/badge/Chat_with_AI_Agent-4A90E2?style=for-the-badge&logo=openai&logoColor=white" alt="Chat with my ai Agent" />
   </a>
   <a href="https://shreyshah.dev">
-    <img src="https://img.shields.io/badge/💼_View_Portfolio-00D084?style=for-the-badge" alt="View Portfolio" />
+    <img src="https://img.shields.io/badge/View_Portfolio-00D084?style=for-the-badge&logo=google-chrome&logoColor=white" alt="View Portfolio" />
   </a>
   <a href="https://shreyshah.dev">
-    <img src="https://img.shields.io/badge/📄_Download_Resume-FF6B6B?style=for-the-badge" alt="Download Resume" />
+    <img src="https://img.shields.io/badge/Download_Resume-FF6B6B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume" />
   </a>
 </p>
 <p align="center">
@@ -52,7 +64,15 @@
   <img src="https://github-profile-trophy.vercel.app/?username=shahshrey&theme=onedark&column=-1" />
 </p>
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shahshrey&theme=github-dark-dimmed&custom_title=Shrey's%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## <img src="https://img.shields.io/badge/-Contribution_Activity-00C853?style=flat&logo=github&logoColor=white" />
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahshrey&theme=github-dark-dimmed&custom_title=Contribution%20Activity%20Graph&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shahshrey&theme=darkhub&no-frame=true&no-bg=true&column=7&rank=-C,-?" alt="Trophy Stats" />
+</p>
 
 ```yaml
 name: Shrey Shah
@@ -88,12 +108,12 @@ achievements: ["Cursor Ambassador", "Hosted Webinars on Maven", "Built Full-Stac
                "Created MCPs for Dynamic Agent Development", "Led City-Wide AI Training Sessions"]
 ```
 
-## 💼 What I Do
+## <img src="https://img.shields.io/badge/-What_I_Do-2962FF?style=flat&logo=databricks&logoColor=white" />
 
 <table>
   <tr>
     <td width="50%">
-      <h3>🤖 AI Engineering</h3>
+      <h3><img src="https://img.shields.io/badge/-AI_Engineering-00ACC1?style=flat&logo=tensorflow&logoColor=white" /></h3>
       <ul>
         <li>Architecting <b>multi-agent systems</b> with LangGraph</li>
         <li>Building <b>RAG pipelines</b> (Hybrid, Graph, Agentic)</li>
@@ -104,7 +124,7 @@ achievements: ["Cursor Ambassador", "Hosted Webinars on Maven", "Built Full-Stac
       </ul>
     </td>
     <td width="50%">
-      <h3>⚡ AI-Assisted Development</h3>
+      <h3><img src="https://img.shields.io/badge/-AI_Assisted_Development-7C4DFF?style=flat&logo=cursor&logoColor=white" /></h3>
       <ul>
         <li><b>2000+ hours</b> with Cursor AI</li>
         <li>Building full-stack apps in <b>under 1 hour</b></li>
@@ -117,14 +137,14 @@ achievements: ["Cursor Ambassador", "Hosted Webinars on Maven", "Built Full-Stac
   </tr>
 </table>
 
-## 🚀 Featured Projects
+## <img src="https://img.shields.io/badge/-Featured_Projects-FF6B6B?style=flat&logo=github&logoColor=white" />
 
 <table>
   <thead align="center">
     <tr border: none;>
-      <td><b>🎁 Projects</b></td>
+      <td><b>📦 Projects</b></td>
       <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
+      <td><b>🔀 Forks</b></td>
       <td><b>💻 Language</b></td>
     </tr>
   </thead>
@@ -162,7 +182,7 @@ achievements: ["Cursor Ambassador", "Hosted Webinars on Maven", "Built Full-Stac
   </tbody>
 </table>
 
-## 💻 Tech Stack
+## <img src="https://img.shields.io/badge/-Tech_Stack-00D084?style=flat&logo=stackshare&logoColor=white" />
 
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
@@ -182,7 +202,7 @@ achievements: ["Cursor Ambassador", "Hosted Webinars on Maven", "Built Full-Stac
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
-## 📊 GitHub Stats
+## <img src="https://img.shields.io/badge/-GitHub_Stats-181717?style=flat&logo=github&logoColor=white" />
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shahshrey&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="Shrey's GitHub Stats" />
@@ -196,29 +216,33 @@ achievements: ["Cursor Ambassador", "Hosted Webinars on Maven", "Built Full-Stac
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahshrey&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10" alt="Shrey's Top Languages" />
 </p>
 
-## 🌟 About Me
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shahshrey/shahshrey/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+## <img src="https://img.shields.io/badge/-About_Me-4A90E2?style=flat&logo=aboutdotme&logoColor=white" />
 
 > *"Building the future of AI, one intelligent system at a time."*
 
 I'm a **Senior AI Software Engineer** with **9+ years of software development experience** and **2+ years specializing in AI engineering**. Currently pushing the boundaries of **Generative AI** at **Vivun** while serving as a **Cursor Ambassador** for **Anysphere**, where I help bridge the gap between the AI community and the Cursor team.
 
-### 🏆 Notable Achievements
+### <img src="https://img.shields.io/badge/-Notable_Achievements-FFD700?style=flat&logo=trophy&logoColor=white" />
 - 🎯 **Cursor Ambassador** - Hosted webinars & talks on Maven, reaching thousands of developers
 - ⚡ **2000+ hours** of Cursor AI-assisted coding experience
 - 🚀 Built full-stack applications in **under an hour** using AI-assisted workflows
-- 🎓 Led organization-wide AI training sessions for development teams
+- 📚 Led organization-wide AI training sessions for development teams
 - 🔧 Created **MCPs** (Model Context Protocols) for dynamic agent development and tool integrations
 
-### 🎯 Current Focus
+### <img src="https://img.shields.io/badge/-Current_Focus-E91E63?style=flat&logo=target&logoColor=white" />
 - 🤖 Architecting **multi-agent applications** using LangGraph for scalable LLM systems
 - 🧠 Building **knowledge graph-based** solutions with short-term and long-term memory frameworks
-- 📚 Developing advanced **RAG systems** (Hybrid RAG, GraphRAG, Agentic RAG)
-- 🔬 Optimizing LLM performance through **LLM-as-a-judge** and **agent-as-a-judge** frameworks
+- 📖 Developing advanced **RAG systems** (Hybrid RAG, GraphRAG, Agentic RAG)
+- ⚗️ Optimizing LLM performance through **LLM-as-a-judge** and **agent-as-a-judge** frameworks
 - 🎨 Fine-tuning and quantizing models (SDXL, Flux) for optimal inference performance
 - 🛡️ Conducting adversarial testing and mitigating prompt injection vulnerabilities
-- 🔧 Creating **MCP servers** for streamlined tool integrations and workflow automation
+- 🔌 Creating **MCP servers** for streamlined tool integrations and workflow automation
 
-### 🌍 Beyond the Code
+### <img src="https://img.shields.io/badge/-Beyond_the_Code-9C27B0?style=flat&logo=rocket&logoColor=white" />
 When I'm not building AI systems, you'll find me:
 - 🎮 Exploring virtual worlds with my **Oculus Quest 3**
 - 📸 Capturing moments with my **Canon M50 Mark II**
@@ -229,5 +253,9 @@ When I'm not building AI systems, you'll find me:
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+  <img src="https://komarev.com/ghpvc/?username=shahshrey&label=Profile%20Views&color=00D084&style=flat-square" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&text=Let's%20Build%20the%20Future%20Together&fontSize=24&fontColor=fff&animation=twinkling" />
 </p>
